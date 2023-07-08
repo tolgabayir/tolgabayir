@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning OOP princibles, Spring and Flutter.
+- 📫 You can reach me: tolgabayir@hotmail.com.
 
 <!--
 **tolgabayir/tolgabayir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
