@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning OOP princibles, Spring and Flutter.
+- 🌱 I’m currently learning OOP principles, Spring and Flutter.
 - 📫 You can reach me: tolgabayir@hotmail.com.
 
 <!--
