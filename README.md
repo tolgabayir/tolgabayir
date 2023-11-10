@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning OOP principles, Asp.Net and Flutter.
 - 🤔 I'm more interested in Asp.Net right now.
-- 📫 You can reach me: tolgabayir@hotmail.com & https://www.linkedin.com/in/tolga-bayir/.
+- 📫 You can reach me: tolgabayir@hotmail.com & https://www.linkedin.com/in/tolga-bayir/
 
 <!--
 **tolgabayir/tolgabayir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
