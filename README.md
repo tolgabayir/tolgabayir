@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning OOP principles, Asp.Net and Flutter.
-- 🤔 I'm more interested in Asp.Net right now.
+- 🌱 I’m interested in API's, Web Applications and Mobile Applications.
+- 🤔 I'm currently learning .Net and Angular.
 - 📫 You can reach me: tolgabayir@hotmail.com & https://www.linkedin.com/in/tolga-bayir/
 
 <!--
