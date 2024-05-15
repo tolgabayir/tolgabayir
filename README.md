@@ -1,5 +1,6 @@
-### Hi there 👋
-- 📫 You can reach me: tolgabayir@hotmail.com & https://www.linkedin.com/in/tolga-bayir/
+# Hi there 👋
+### I'm Tolga, a computer engineer from Turkey.
+📫 You can reach me: tolgabayir@hotmail.com & https://www.linkedin.com/in/tolga-bayir/
 
 <!--
 **tolgabayir/tolgabayir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
