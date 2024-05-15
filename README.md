@@ -1,6 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m interested in API's, Web Applications and Mobile Applications.
-- 🤔 I'm currently learning .Net and Angular.
 - 📫 You can reach me: tolgabayir@hotmail.com & https://www.linkedin.com/in/tolga-bayir/
 
 <!--
