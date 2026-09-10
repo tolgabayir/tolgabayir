@@ -64,18 +64,6 @@ Currently pursuing a Master’s degree in Computer Engineering while building pr
 
 ---
 
-## 📌 Current Work
-
-### SoloRota – Personalized Learning Platform
-Backend built with:
-- .NET Core 7 & 9
-- CQRS & SOA
-- PostgreSQL
-- Docker
-- Azure DevOps
-
----
-
 ## 📈 Career Goal
 
 To work on high-scale backend systems and contribute to engineering-focused teams where architecture, system thinking, and code quality matter.
