@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tolga Bayır
 
 🚀 Backend Engineer focused on scalable systems, clean architecture, and distributed design.  
-🇹🇷 Based in Turkey | Open to remote opportunities  
+🇹🇷 Based in Turkey
 
 ---
 
